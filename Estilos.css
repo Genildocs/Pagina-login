@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Redressed&family=Roboto+Serif:ital,wght@0,100;0,400;1,400;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Redressed&family=Roboto+Condensed&family=Roboto+Serif:ital,wght@0,100;0,400;1,400;1,500&display=swap');
+
+
+body{
+    background-color: #D1CBCB;
+    border: 0px;
+}
+
+
+.login{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #332d8b;
+}
+.tela-login{
+    background-color: rgb(184, 112, 112);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 80px;
+    border-radius: 10%;
+}
+.input{
+    padding: 15px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.botao-login{
+    background-color: #332d8b;
+    border: none;
+    padding: 15px;
+    width: 100%;
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
+button:hover{
+    background-color: rgb(104, 182, 182);
+}
