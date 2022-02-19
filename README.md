@@ -1,2 +1,2 @@
 # Pagina-login
-Pagina de login de um web-site criando em html5 e estilizado com css3.
+Pagina de login de um web-site criado em html5 e estilizado com css3.
