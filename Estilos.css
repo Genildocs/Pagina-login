@@ -3,8 +3,10 @@
 
 
 body{
-    background-color: #D1CBCB;
-    border: 0px;
+    
+    margin: 0px;
+    background-image: url(../Pagina-login/quadros-por-tema-abstratos-e-geometricos-quadro-panoramico-arte-abstrata-colorida--p-1633439311861.jpg);
+    background-size: cover;
 }
 
 
